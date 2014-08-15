@@ -1,11 +1,11 @@
 dojo
 ====
 
-**Initialize: 
+##Initialize: 
 
 npm install
 
-**BUILD
+##BUILD
 
 node build 
 
