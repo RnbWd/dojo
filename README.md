@@ -32,7 +32,13 @@ All files being developed are located under *src*. node build automatically comp
 
 ##Task
 
-Build something with browserify and React. Get familiar with  the commonjs (require) syntax. -- var React = require('react') -- Build a simple form or rebuild a dojo project using React + browserify. Google is always your friend. 
+* Build something with browserify and React. 
+
+* Get familiar with  the commonjs (require) syntax. -- var React = require('react') -- 
+
+* Build a simple form or rebuild a dojo project using React + browserify. 
+
+Google is always your friend. 
 
 ##Contact
 
