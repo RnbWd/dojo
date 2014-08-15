@@ -1,0 +1,29 @@
+{
+  "name": "dojo",
+  "version": "0.0.0",
+  "description": "dojo ====",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RnbWd/dojo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RnbWd/dojo/issues"
+  },
+  "homepage": "https://github.com/RnbWd/dojo",
+  "devDependencies": {
+    "browserify": "^5.10.0",
+    "gulp": "^3.8.7",
+    "gulp-react": "^1.0.0",
+    "react": "^0.11.1",
+    "reactify": "^0.14.0",
+    "vinyl-fs": "^0.3.6",
+    "vinyl-source-stream": "^0.1.1",
+    "watchify": "^1.0.2"
+  }
+}
