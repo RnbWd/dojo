@@ -3,9 +3,14 @@ dojo
 
 ##Initialize: 
 
+From the command line inside of the cloned dojo folder:
+
 npm install
 
 ##Build:
+
+From the command line inside of the cloned dojo folder:
+
 
 node build 
 
