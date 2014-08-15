@@ -5,7 +5,7 @@ dojo
 
 npm install
 
-##BUILD
+##Build:
 
 node build 
 
