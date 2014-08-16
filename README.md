@@ -28,7 +28,7 @@ React - [click here](https://facebook.github.io/react/)
 
 ##File Structure
 
-All files being developed are located under *src*. node build automatically complies the files from *src* into *public*. Open *index.html* inside of the *public* folder to view the project. 
+All files being developed are located under *src*. node build automatically complies the files from *src* into *public*. Open *index.html* inside of the *public* folder to view the project. The *js* folder inside of *src* doesn't need to be used, it's just a replica of the *jsx* folder. Write all of your browserify/react files inside of the *jsx* folder. jsx allows you to build react components with html syntax, other than that it's identical to javascript.
 
 ##Task
 
